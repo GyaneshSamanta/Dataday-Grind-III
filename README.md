@@ -1,4 +1,6 @@
-#Winner - Best Data Visualisation Hack at Dataday Grind III by MLH
+ ### Best Data Visualisation Hack at Dataday Grind III by MLH
+
+[Winner](Repository-Assests/Winner.jpeg) 
 
 Check out the project video here - [YouTube](https://youtu.be/Kz0wZPgQxYc)
 
